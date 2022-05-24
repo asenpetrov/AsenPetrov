@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 My name is Asen Petrov.
 
-Here are some ideas to get you started:
+Here is some information about me: 
 
 - 🔭 I’m currently working as a Junior IT technical consultant.
 - 🌱 I’m currently learning C# programming language.
