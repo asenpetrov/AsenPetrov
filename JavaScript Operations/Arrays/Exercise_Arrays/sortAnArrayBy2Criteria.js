@@ -1,8 +1,15 @@
 function solve(array){
 
-    let sortedArray = array.sort((a,b) => a.length != b.length);
+    let sortedArray = array.sort().sort((a,b) => a.length - b.length);
+    
+    sortedArray.forEach(element => {
+        console.log(element);
+    });
 
 }
-solve(['alpha', 
-'beta', 
-'gamma'])
+solve(['Isacc', 
+'Theodor', 
+'Jack', 
+'Harrison', 
+'George']
+)
