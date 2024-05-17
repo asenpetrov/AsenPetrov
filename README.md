@@ -3,7 +3,7 @@ My name is Asen Petrov.
 
 Here is some information about me: 
 
-- 🔭 I’m currently working as an ITOM technical consultant.
+- 🔭 I’m currently working as a ServiceNow ITOM technical consultant.
 - 🌱 I’m currently learning C# and JavaScript programming languages.
 - 📫 You can see some of my work in my folders C# Operations and JavaScript Operations, more to follow soon.
 - 
